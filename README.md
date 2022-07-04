@@ -5,3 +5,5 @@
 1.2 -- Extract patterns from stock data using PCA
 
 2 -- Data Analysis using PySpark & Clustering of Trajectories
+
+Please see details in the report in each folder.
